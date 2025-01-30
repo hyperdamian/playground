@@ -1,0 +1,20 @@
+# Archives
+*.zip
+
+# Emacs
+\#*\#
+
+# Apache Maven
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java
+*.class
+
+# Jekyll
+_site/
+.sass-cache
+.jekyll-metadata
