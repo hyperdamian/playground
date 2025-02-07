@@ -1,0 +1,6 @@
+services:
+    cassandra:
+        image: "cassandra:4.1.8"
+        container_name: "cassandra-play"
+        ports:
+            - "19042:9042"
